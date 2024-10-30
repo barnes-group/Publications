@@ -1,17 +1,18 @@
 Version branch to publish and access actual version numbers
 
 ## JSON tructure Overview
+
 ```json
 {
   "ProductName": [
     {"PartVersion1": "Version"},
     {"PartVersion2": "Version"},
-    ...
   ],
-  ...
 }
+```
 
 e.g.
+
 ```json
 {
   "FillControl": [
@@ -23,3 +24,4 @@ e.g.
     {"VaranUpdater": ""}
   ]
 }
+```
