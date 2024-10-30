@@ -1,10 +1,10 @@
 {
-  "FillControl":{
-    "FillControl":"1.19.05",
-    "MachineDescriptionEditor":"",
-    "AllowedVaranMasterVersions":["1.6.33484", "1.6.33511", "1.4.32192"]
+  'FillControl': {
+    'FillControl': '1.19.05',
+    'MachineDescriptionEditor': '',
+    'AllowedVaranMasterVersions': ['1.6.33484', '1.6.33511', '1.4.32192']
   },
-  "QualityMonitor":{
-    "MasterVersion":"1.6.34559"
+  'QualityMonitor': {
+    'MasterVersion': '1.6.34559'
   }
 }
