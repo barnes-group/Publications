@@ -1,6 +1,6 @@
 {
   "FillControl": {
-    "FillControl": "1.19.05",
+    "FillControl": "1.19.06",
     "MachineDescriptionEditor": "1.9.6",
     "AllowedVaranMasterVersions": ["1.6.33484", "1.6.33511", "1.4.32192"],
     "LicenceGenerator": "3.13.0"
